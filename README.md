@@ -6,7 +6,7 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 
 ### Markdown
 
-[Truth or Dare] (https://github.com/temichas/jamoffstudioPages/TruthOrDare.md)
+[Truth or Dare] (TruthOrDare.md)
 
 ```markdown
 Syntax highlighted code block
