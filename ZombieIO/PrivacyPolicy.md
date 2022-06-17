@@ -1,7 +1,6 @@
-# Privacy Policy
+### Privacy Policy
 
-**Privacy Policy**
-"JamoffStudio" built the Truth or Dare app as free/ad-supported app. This SERVICE is provided by "JamoffStudio"  at no cost and is intended for use as is.
+"JamoffStudio" built the Zombie IO app as free/ad-supported app. This SERVICE is provided by "JamoffStudio"  at no cost and is intended for use as is.
 
 This page is used to inform visitors regarding our policies with the collection, use, and disclosure of Personal Information if anyone decided to use our Service.
 
