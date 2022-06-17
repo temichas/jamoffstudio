@@ -1,6 +1,5 @@
-## Welcome to JamoffStudio
+## JamoffStudio Games
 
-## Games
 
 [Truth or Dare](TruthOrDare/TruthOrDare.md)
 
@@ -11,4 +10,4 @@
 [Zombie Battle Royale](ZombieIO/ZombieIO.md)
 
 
-For more information [contact us](jamoffstudio@gmail.com)
+For more information jamoffstudio@gmail.com
