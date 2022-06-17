@@ -1,4 +1,4 @@
-#Privacy Policy
+# Privacy Policy
 
 **Privacy Policy**
 "JamoffStudio" built the Truth or Dare app as free/ad-supported app. This SERVICE is provided by "JamoffStudio"  at no cost and is intended for use as is.
